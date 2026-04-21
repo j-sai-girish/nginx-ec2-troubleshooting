@@ -45,6 +45,12 @@ Mismatch between:
 
 ---
 
+## 🎯 Result
+Application accessible via:
+http://public-ip
+
+---
+
 ## 📸 Screenshots
 See `/screenshots` folder:
 - Failure case
