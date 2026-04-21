@@ -77,4 +77,4 @@ See `/screenshots` folder:
 ---
 
 ## 🔗 Author
-Your Name
+J Sai Girish
