@@ -1,0 +1,11 @@
+# BEFORE (Issue)
+server {
+    listen 8080;
+    listen [::]:8080;
+}
+
+# AFTER (Fix)
+server {
+    listen 80;
+    listen [::]:80;
+}
